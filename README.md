@@ -1,4 +1,12 @@
 ## Hey 👋, I'm Salnaf Sabiq Alfajri  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sabiqalfajri&&style=flat-square" align="center" />
+</div>  
+  
+<br/> 
   
 
 <a href="https://github.com/sabiqalfajri" target="_blank">
@@ -103,14 +111,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=sabiqalfajri&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
+ 
 
 
 
