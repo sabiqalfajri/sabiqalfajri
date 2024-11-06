@@ -41,13 +41,11 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 - 🌱 I’m currently learning Next.js, MongoDb and Express  
   
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 - 👨‍💻 All of my projects are available at [https://www.digitalsabiq.com](https://www.digitalsabiq.com)
+
+- 📫 How to reach me **salnafsabiq@gmail**
 
 
 <br/>  
