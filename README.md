@@ -96,7 +96,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sabiqalfajri&color=000000&line=e302d4&point=e6e6e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sabiqalfajri&bg_color=000000&color=ffffff&line=e302d4&point=e6e6e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>  
 
