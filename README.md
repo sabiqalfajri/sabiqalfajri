@@ -1,15 +1,11 @@
-<table>
-  <tr>
-    <td valign="top" width="100%">
-      <p>Hey 👋, I'm Salnaf Sabiq Alfajri</p>
-    </td>
-    <td valign="top" width="100%">
-      <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=sabiqalfajri&&style=flat-square" align="right" />
-      </div>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    Hey 👋, I'm Salnaf Sabiq Alfajri. I’m a passionate Full-Stack Developer.
+  </div>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=sabiqalfajri&&style=flat-square" />
+  </div>
+</div>
   
 <br/> 
   
