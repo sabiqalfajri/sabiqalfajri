@@ -1,14 +1,15 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- Teks di Kiri -->
-  <div style="flex: 1;">
-    <p>Hey 👋, I'm Salnaf Sabiq Alfajri</p>
-  </div>
-
-  <!-- Gambar di Kanan -->
-  <div style="flex: 0;">
-    <img src="https://komarev.com/ghpvc/?username=sabiqalfajri&&style=flat-square" alt="GitHub views" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      <p>Hey 👋, I'm Salnaf Sabiq Alfajri</p>
+    </td>
+    <td valign="top" width="30%">
+      <div align="center">
+        <img src="https://komarev.com/ghpvc/?username=sabiqalfajri&&style=flat-square" align="right" />
+      </div>
+    </td>
+  </tr>
+</table>
   
 <br/> 
   
