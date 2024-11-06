@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    Hey 👋, I'm Salnaf Sabiq Alfajri. I’m a passionate Full-Stack Developer.
+    Hey 👋, I'm Salnaf Sabiq Alfajri. 
   </div>
   <div>
     <img src="https://komarev.com/ghpvc/?username=sabiqalfajri&&style=flat-square" />
