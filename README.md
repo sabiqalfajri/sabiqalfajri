@@ -94,6 +94,11 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
+<br/>  
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sabiqalfajri&bg_color=e0c8d5&color=000000&line=e302d4&point=e6e6e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>  
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
