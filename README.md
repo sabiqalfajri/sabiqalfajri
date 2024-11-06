@@ -29,7 +29,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working Frelancer Upwork and Linkedin   
   
@@ -43,12 +42,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
-</td><td valign="top" width="50%">
 
  
 
-
-</td></tr></table>  
 
 <br/>  
 
