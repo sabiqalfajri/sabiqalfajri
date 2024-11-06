@@ -106,12 +106,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
   
 
-<br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=sabiqalfajri&&style=flat-square)  
-  
-
-<br/>  
 
 
 <br />
