@@ -1,10 +1,14 @@
-## Hey 👋, I'm Salnaf Sabiq Alfajri  
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- Teks di Kiri -->
+  <div style="flex: 1;">
+    <p>Hey 👋, I'm Salnaf Sabiq Alfajri</p>
+  </div>
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=sabiqalfajri&&style=flat-square" align="center" />
-</div>  
+  <!-- Gambar di Kanan -->
+  <div style="flex: 0;">
+    <img src="https://komarev.com/ghpvc/?username=sabiqalfajri&&style=flat-square" alt="GitHub views" />
+  </div>
+</div>
   
 <br/> 
   
