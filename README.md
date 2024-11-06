@@ -49,7 +49,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
-- 👨‍💻 All of my projects are available at [https://www.digitalsabiq.com/](https://www.digitalsabiq.com)
+- 👨‍💻 All of my projects are available at [https://www.digitalsabiq.com](https://www.digitalsabiq.com)
 
 
 <br/>  
