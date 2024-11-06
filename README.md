@@ -54,7 +54,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ## Socials Media
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sabiq.alfajri.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sabiq_alfajri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabiq-alfajri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sabiqq_al) 
-![Twitter](https://img.icons8.com/ios-filled/50/000000/twitter.png)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
 <br/>  
 
 ## Languages and Tools  
