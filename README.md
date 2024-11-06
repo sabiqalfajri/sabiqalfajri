@@ -1,5 +1,6 @@
-##  
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=sabiqalfajri&&style=flat-square" align="center" />
+</div>
 
 ## Hey 👋, I'm Salnaf Sabiq Alfajri. 
   
