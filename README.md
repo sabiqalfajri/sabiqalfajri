@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td valign="top" width="70%">
+    <td valign="top" width="50%">
       <p>Hey 👋, I'm Salnaf Sabiq Alfajri</p>
     </td>
-    <td valign="top" width="30%">
+    <td valign="top" width="50%">
       <div align="center">
         <img src="https://komarev.com/ghpvc/?username=sabiqalfajri&&style=flat-square" align="right" />
       </div>
