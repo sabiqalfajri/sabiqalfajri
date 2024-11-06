@@ -45,7 +45,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 - 👨‍💻 All of my projects are available at [https://www.digitalsabiq.com](https://www.digitalsabiq.com)
 
-- 📫 How to reach me **salnafsabiq@gmail**
+- 📫 How to reach me salnafsabiq@gmail.com
 
 
 <br/>  
