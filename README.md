@@ -1,11 +1,9 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    Hey 👋, I'm Salnaf Sabiq Alfajri. 
-  </div>
-  <div>
+## Hey 👋, I'm Salnaf Sabiq Alfajri. 
+
+  <div align="center">
     <img src="https://komarev.com/ghpvc/?username=sabiqalfajri&&style=flat-square" />
   </div>
-</div>
+
   
 <br/> 
   
