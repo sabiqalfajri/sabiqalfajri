@@ -92,7 +92,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 </td><td valign="top" width="50%">
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabiqalfajri&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabiqalfajri&hide_border=true&layout=compact" align="right" style="width: 90%" /></div>
 
 </td></tr></table>  
 
